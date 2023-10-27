@@ -9,7 +9,7 @@ env:
   LOCATION: switzerlandnorth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 4d5b6dc8-8720-4c73-8993-917606b51c95
-  WEBAPP-NAME: az400-webapp-github
+  WEBAPP-NAME: az400-webapp-joel
 
 
 jobs:
